@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mouslim Saidi</h1>
-<h3 align="center">A data science & AI ppassionate engineer from Algeria</h3>
+<h3 align="center">A data science & AI passionate engineer from Algeria</h3>
 <img align="center" alt="Data science" width="801" height="372" src="https://miro.medium.com/v2/resize:fit:1358/1*dBPwuC3Dh2WWFFYTwogTMA.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidimouslim&label=Profile%20views&color=0e75b6&style=flat" alt="saidimouslim" /> </p>
 
